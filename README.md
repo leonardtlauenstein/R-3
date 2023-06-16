@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+<img width="2003" alt="Screenshot 2023-06-16 at 11 18 01" src="https://github.com/leonardtlauenstein/R-3/assets/108667934/95482e72-ffa2-46f5-adf5-8bc56395dab3">
+#Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
